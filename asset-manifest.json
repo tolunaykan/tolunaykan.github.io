@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.73c9e9e0.css",
+    "main.js": "/static/js/main.fcb2ac8f.js",
+    "static/js/415.fc063c41.chunk.js": "/static/js/415.fc063c41.chunk.js",
+    "static/js/787.f6e65957.chunk.js": "/static/js/787.f6e65957.chunk.js",
+    "static/media/myWords.gif": "/static/media/myWords.4874c52d7b60bea355dc.gif",
+    "static/media/drawingView.gif": "/static/media/drawingView.8eb9e47c79c67fbd4450.gif",
+    "static/media/signVerify.png": "/static/media/signVerify.451b5e5179bd7fcf60b5.png",
+    "static/media/happyweb.webp": "/static/media/happyweb.d1e2b4207d98d3308b93.webp",
+    "static/media/pic.jpg": "/static/media/pic.4189854e30516b7dc900.jpg",
+    "static/media/resume1.pdf": "/static/media/resume1.f38d1b5ca4f5b5b9a5b8.pdf",
+    "static/media/impokeyboard.webp": "/static/media/impokeyboard.94a64f6962d96c0f5c13.webp",
+    "static/media/biodoc.webp": "/static/media/biodoc.e2c9ee16e3ea17dd599d.webp",
+    "index.html": "/index.html",
+    "static/media/spinner.svg": "/static/media/spinner.1b7aaa2927c696320db2.svg",
+    "main.73c9e9e0.css.map": "/static/css/main.73c9e9e0.css.map",
+    "main.fcb2ac8f.js.map": "/static/js/main.fcb2ac8f.js.map",
+    "415.fc063c41.chunk.js.map": "/static/js/415.fc063c41.chunk.js.map",
+    "787.f6e65957.chunk.js.map": "/static/js/787.f6e65957.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73c9e9e0.css",
+    "static/js/main.fcb2ac8f.js"
+  ]
+}
